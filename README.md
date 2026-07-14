@@ -33,7 +33,6 @@ study_tracker_outputs/
 
 ```text
 cadence_study_tracker/
-├── Cadence Study Tracker.app/       # macOS launcher for the frontend
 ├── study_tracker_outputs/           # Generated graph images
 ├── cadence.html                     # Main browser study tracker app
 ├── index.html                       # Landing page
